@@ -14,10 +14,14 @@ Key Features
 Use Case
 This dashboard is particularly useful for sales managers, business analysts, and decision-makers who need a clear and interactive representation of sales data. By leveraging this tool, organizations can track business performance, optimize sales strategies, and make informed decisions to improve profitability and operational efficiency.
 
-Technology Used
+Technology Used:
+
 1-Power BI for data visualization and interactive analytics
+
 2-Data integration from multiple sources for comprehensive insights
+
 3-Custom filtering options to enhance usability and flexibility
+
 
 Benefits
 1-Enhanced decision-making: Provides a structured and visual approach to analyzing key sales metrics.
